@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.3
+
+- B Update verion, url in config.json to custom github
+- Adjust ozw resolution to 1280x1024
 ## 0.5.2
 
 - Rollback the docker image to 0.5.2.
